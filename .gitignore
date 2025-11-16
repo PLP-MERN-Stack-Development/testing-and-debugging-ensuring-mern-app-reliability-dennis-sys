@@ -10,4 +10,3 @@ server/.env
 # Build outputs
 dist
 build
-/client/build
